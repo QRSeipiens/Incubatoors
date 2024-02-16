@@ -1,0 +1,21 @@
+{
+    "name":"SB Incubators",
+    "description":"Awaken the BEAST that lies within",
+    "website":"",
+    "twitter":"https://twitter.com/SeipiensNFT",
+    "discord":"https://discord.com/invite/d67MtdwFtM",
+    "rpc":"https://rpc.atlantic-2.seinetwork.io",
+    "network":"atlantic-2", 
+    "collection_address":"sei1c82tmq97tgpk3rrlxg3jld5gy3zlxvt0306fsmm6rznr52zh4k3qgkz44r", 
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name":"Team",
+            "allowlist":[
+                "sei1y6ee0ld8jqfxzpw7rwv8nuf94e4j5fgqhxwhwp"
+                
+            ] 
+        }
+       
+    ]
+}
