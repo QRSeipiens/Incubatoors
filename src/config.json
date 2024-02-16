@@ -4,8 +4,8 @@
     "website":"",
     "twitter":"https://twitter.com/SeipiensNFT",
     "discord":"https://discord.com/invite/d67MtdwFtM",
-    "rpc":"https://rpc.atlantic-2.seinetwork.io",
-    "network":"atlantic-2", 
+    "rpc":"https://sei-rpc.polkachu.com/",
+    "network":"pacific-1", 
     "collection_address":"sei13q7rmlkuc9cje94qjwmlfxmw30f8zfchn07q3zj7f6096gv4vsqsv5x0zr", 
     "nft_name_type": "default",
     "groups":[
